@@ -4,7 +4,7 @@ A real-time 2D physics simulation written in C++20 using **SFML 3** and **AML (A
 
 The goal of this project was to implement core numerical integration methods and continuous mechanics formulas from scratch without relying on an external physics engine.
 
-![Simulation Preview](assets/demo.gif)
+![Simulation Demo](./assets/demo.gif)
 
 ---
 
