@@ -9,7 +9,7 @@ The goal of this project was to implement core numerical integration methods and
 ---
 
 ## Pre-Built Release
-A standalone Windows executable is available on **[PlayNow on Itch.com](https://itch.io)**.
+A standalone Windows executable is available on **[PlayNow on Itch.com](https://aporiastudio.itch.io/softbody)**.
 
 ---
 
