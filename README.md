@@ -85,8 +85,9 @@ Pressing **`TAB`** cycles between three independent simulation states:
 
 ### Build
 ```bash
-git clone https://github.com
-cd 2d-physics-sandbox
+git clone -b soft_body https://github.com
+cd A.P.E_2D-Aporia-Physics-Engine/SoftBodySim
+
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release
 ```
